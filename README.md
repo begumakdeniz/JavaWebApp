@@ -5,7 +5,7 @@ TOOLS:
 --------
   -Intellij
   
-  -Java Spring
+  -Spring
   
   -Tomcat
   
